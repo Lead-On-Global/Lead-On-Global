@@ -43,12 +43,12 @@ I am a third-year student pursuing a Bachelors's in Computer Science 🎓 from M
 <img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/coder.gif" />
 
 
-### Know more about me:
+### Know more about us:
 
-- 🔭 I’m currently exploring AI 🚀.
-- 🌱 I’m currently learning ML and learning about different algorithms 🛠.
-- 💬 Ask me about anything, I would be glad to help (if I could ✨).
-- 📫 How to reach me: Linkedin (preferable)
+- 🔭 We are currently exploring AI 🚀.
+- 🌱 We are currently learning ML and learning about different algorithms 🛠.
+- 💬 Ask us about anything, We would be glad to help .
+- 📫 How to reach us: Linkedin (preferable)
 - ⚡ Fun fact: <a href = "https://www.theatlantic.com/science/archive/2017/11/how-the-zombie-fungus-takes-over-ants-bodies-to-control-their-minds/545864/#:~:text=And%20its%20body%20belongs%20to,ascend%20a%20nearby%20plant%20stem."> Some fungi create zombies, then control their minds </a>
 
 <br>
