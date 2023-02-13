@@ -1,4 +1,4 @@
-<p  align="center"><img src = "https://github.com/Lead-On-Global/Lead-On-Global/blob/master/assets/cover.png"></p>
+<p  align="center"><img src = "[https://github.com/Lead-On-Global/Lead-On-Global/blob/master/assets/cover.png](https://github.com/Lead-On-Global/Lead-On-Global/blob/main/assets/cover.png)"></p>
 
 ## Hello World! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
 <br />
